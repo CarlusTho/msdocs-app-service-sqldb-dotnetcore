@@ -7,7 +7,7 @@ terraform {
     resource_group_name  = "rg-lab"
     storage_account_name = "samfonfs2022"
     container_name       = "tfstate"
-    key                  = "rg-mfo-nfs-2022.tfstate"
+    key                  = "tcar-group.tfstate"
   }
 }
 
